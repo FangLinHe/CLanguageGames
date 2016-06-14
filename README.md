@@ -1,8 +1,10 @@
 ## My first C games in command line window
 - Bingo game:
   You can execute [bingo.exe](bingo.exe).  Enter 0 to fill the cells randomly.  I just found some bugs to manually fill the cells, so don't try it.
+![alt tag](bingo_example.png)
 - Minesweeper game:
   You can execute [minesweeper.exe](minesweeper.exe).  Enter the row number and column number to sweep the mine.  For example, row 1 and column 9: enter _1 9_.  
+![alt tag](minesweeper_example.png)
 
 They are all in Chinese language.
 
